@@ -1,0 +1,65 @@
+
+/* This file is created to refrence index.html */
+#firstParagraph{
+    text-align: center; /* align the paragraph to center */
+    border:5px solid lime;
+    border-radius: 15px;
+    font:larger solid;
+
+    padding:20px 20px 20px 20px;
+    text-indent: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* This is to center the h1 and paragraph */
+.center{
+    text-align: center;
+    color: green;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top:30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    text-decoration:underline;
+    text-transform:lowercase;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+}
+
+/* Combined h2 and div together*/
+h2, div{
+    text-align: center;
+    font-size: larger;
+    color: indigo;
+}
+
+img{
+ margin: 30px 40px 40px 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+table{
+    /* border:1px solid; */
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid;
+}
