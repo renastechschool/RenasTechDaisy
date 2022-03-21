@@ -12,7 +12,7 @@
 
 
 
-#1- Open a chrome browser
+#1- Open a chrome browser![img.png](img.png)
 ```
 WebDriverManager.chromedriver().setup();
 WebDriver driver=new ChromeDriver();
