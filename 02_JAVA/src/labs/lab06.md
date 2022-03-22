@@ -29,4 +29,3 @@ Percentage 		   Result
 	1 m = 100 cm  =>  cm= m * 100
 
 
-### Question 5 ) WAP to print the reverse of a four digit number

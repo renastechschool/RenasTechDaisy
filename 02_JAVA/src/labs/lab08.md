@@ -25,22 +25,11 @@ Percentage=(Marks of all 5 subjects/500)*100.
 	>=60 and <75		FIRST
 	>75			FIRST WITH DISTINCTION
 ```
-### 3)WAP to enter a distance in Kilometers(km) and print equivalent distance in meters(m), feet(ft), inches(in) and centimeters(cm).
-	1 km = 1000 m =>  m = km*1000
-	1 m = 3.3 ft  =>  ft= m * 3.3
-	1 ft = 12 in  =>  in= ft * 12
-	1 m = 100 cm  =>  cm= m * 100
-### 4) WAP to enter a number and print its reverse.
 
-### 5) WAP to enter a number and check if its a palindrome or not.
+### 3) WAP to enter a number and check if its a palindrome or not.
+### 4) WAP to enter three numbers from the keyboard and print the smallest and largest of those numbers.
 
-### 6) WAP to enter two numbers and swap them using a third variable and print them
-### 7) WAP to enter a number and swap and print them without using a third variable.
-### 8)WAP to enter a number and check if its an even number or an odd number.
-### 9)WAP to enter any year from the user and check if it's a leap year or not.
-### 10) WAP to enter three numbers from the keyboard and print the smallest and largest of those numbers.
-
-### 11) WAP to enter marks in 5 subjects out of 100. If marks in any subject is less than 33 then it's a faliure. Your program should output the no. of subjects the person is failing in else it should print PASS.
+### 5) WAP to enter marks in 5 subjects out of 100. If marks in any subject is less than 33 then it's a faliure. Your program should output the no. of subjects the person is failing in else it should print PASS.
 ```
 	50	
 	60
