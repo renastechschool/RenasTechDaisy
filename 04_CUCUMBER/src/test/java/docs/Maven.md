@@ -1,4 +1,4 @@
-# How to create Cucumber Maven project in Eclipse
+# How to create Cucumber Maven project 
 We will be using Cucumber setup in Eclipse (using Maven). The steps mentioned in the IntelliJ Cucumber tutorial section still remain the same. Hence, you can use either of the IDEs as per your convenience. This is the primary reason why we covered these two IDEs in this introductory blog of the Cucumber Selenium tutorial series.
 
 ### Step 1

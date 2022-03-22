@@ -7,7 +7,7 @@ Launch the IntelliJ IDE and navigate to File > New > Project.
 
 ### Step 2
 
-Select Java and click on Next.
+Select Maven and click on Next.
 
 ### Step 3
 
@@ -23,20 +23,11 @@ You will see the project getting displayed in the project explorer.
 
 ### Step 6
 
-Import the required JARs for Selenium and Cucumber, similar to how it was done with Cucumber setup in Eclipse. To do so, navigate to File > Project Structure > Modules.
+Import the required dependencies for cucumber.
 
 ### Step 7
 
-As highlighted in the above screenshot select the Dependencies Tab. Add the required dependencies by clicking on the ‘+’ sign towards the bottom and select the required JARs (or Directories).
+install gherkin and cucumber for java plugins
 
-### Step 8
-
-Select the JARs through the ‘browse menu’ and click on OK.
-
-### Step 9
-
-On similar lines, add the Selenium JARs. With this, the Cucumber Selenium dependencies are added to the project. Click on Apply and then press OK.
-
-Like Cucumber setup in Eclipse, the imported JARs will be available under the ‘External Libraries’ section.
 
 

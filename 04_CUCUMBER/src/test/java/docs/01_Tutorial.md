@@ -1,4 +1,4 @@
-# Configure Cucumber Setup In Eclipse And IntelliJ Tutorial
+# Configure Cucumber Setup In IntelliJ Tutorial
 
 Selenium is a test automation framework extensively used by organizations looking to expedite the web-product testing process. As far as test automation frameworks in Java are concerned, TestNG is largely preferred by QA engineers for the development & enhancement of test suites. With the adoption of Agile methodology in the work environment, a diverse set of stakeholders like QAs, technical managers, program managers; including non-technical team members are willing to work collaboratively for the betterment of the product.
 
@@ -25,7 +25,7 @@ Here are the major reasons why QA engineers prefer Cucumber over other BDD frame
 Now that we have covered the basics of the Cucumber framework, let’s look at how to setup Cucumber in Eclipse. In this IntelliJ Cucumber tutorial, we would also cover setting up Cucumber for IntelliJ and using Cucumber with Maven. Here are the pre-requisites for installing the Cucumber framework:
 
 ### 1) Install Java
-### 2) Install Eclipse IDE for Java or Install IntelliJ
+### 2) Install IntelliJ for Java
 ### 3) Install Maven
 ### 4) Install Selenium WebDriver
 ### 5) Install JUnit
