@@ -30,14 +30,3 @@ OUTPUT
 .
 2 * 10 = 20
 
-### 3. Write a Java program to print the grades of the student based on the points
-*
-Points      Grades
-91 - 100    A
-75-90       B
-60-74       C
-40-59       D
-<40         E
-* */
-
-Please check #assignments-announcements in slack
