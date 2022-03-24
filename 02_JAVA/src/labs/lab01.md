@@ -17,28 +17,13 @@ Test Data :
 50/3
 Expected Output :
 16
-## 4. Write a Java program to display the following pattern.
-Sample Pattern :
-J    a   v     v  a                                                  
-J   a a   v   v  a a                                                 
-J  J  aaaaa   V V  aaaaa                                                
-JJ  a     a   V  a     a
-## 5. Write a Java program to print a face.
+
+## 4. Write a Java program to print a face.
 Expected Output
 +"""""+                                                 
 [| o o |]                                                
 |  ^  |                                                 
 | '-' |                                                 
 +-----+
-## 6. Write a Java program to print an American flag on the screen.
-Expected Output
-
-|&ast; &ast; &ast; &ast; &ast; &ast; ==================================                          
-|&ast; &ast; &ast; &ast; &ast; &ast;  ==================================                          
-|&ast; &ast; &ast; &ast; &ast; &ast; ==================================                          
-|&ast; &ast; &ast; &ast; &ast; &ast; ==================================                          
-|&ast; &ast; &ast; &ast; &ast; &ast; ==================================                          
-|&ast; &ast; &ast; &ast; &ast; &ast; ==================================                          
-|&ast; &ast; &ast; &ast; &ast; &ast; ==================================                          
-|&ast; &ast; &ast; &ast; &ast; &ast;  ==================================                          
+                      
                        

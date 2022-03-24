@@ -1,20 +1,23 @@
-## Lab 11 - Arrays
+## Lab 12 - Object Oriented Programing
 ___
 
-Create a program that uses these formulas below
+Create a methods / main methods formulas below
 
-## Objective Learing Arrays and how to reverse
+## Objective
+Difirentiate object / class method
 
-Write these programs
+Do the following tasks
 -------------------------------------------------------------------------------------
 
-### 1 WAP to enter a sentence and print the reverse of it.
-eg.
-Java is fun
-OUTPUT
-------------
-fun is Java
 
-### 2 WAP to count even and odd numbers in an array using for each loop
-
-### 3 WAP to count the sum of even and odd numbers in an array using the for-each loop
+public class Animals {
+double age;
+String name;
+String color;
+String type;//instance variables
+//create a method that will set all information i.e. instance variables for animal objects
+//create a function that will explain what animal eats
+//print type of animal
+//to print our objects we will need to create a toString method
+//create the main method which calls all the above methods
+} (edited) 

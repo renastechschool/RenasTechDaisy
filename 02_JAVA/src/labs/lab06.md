@@ -22,10 +22,4 @@ Percentage 		   Result
 ### Question 3 ) WAP to enter a number and swap and print them without using a third variable.
 
 
-### Question 4  )WAP to taking a distance in Kilometers(km) and print equivalent distance in meters(m), feet(ft), inches(in) and centimeters(cm).
-	1 km = 1000 m =>  m = km*1000
-	1 m = 3.3 ft  =>  ft= m * 3.3
-	1 ft = 12 in  =>  in= ft * 12
-	1 m = 100 cm  =>  cm= m * 100
-
 
