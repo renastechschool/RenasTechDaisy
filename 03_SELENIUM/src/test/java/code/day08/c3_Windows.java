@@ -17,6 +17,7 @@ public class c3_Windows extends TestBase {
         driver.get("https://renas-practice.herokuapp.com/home");
         //click on elements
         driver.findElement(By.id("selenium-Elements")).click();
+
         // click on windows
         driver.findElement(By.id("WindowsII")).click();
 
