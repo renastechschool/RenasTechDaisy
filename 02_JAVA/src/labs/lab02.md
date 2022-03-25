@@ -1,9 +1,4 @@
-## Lab 02 - Variables - the Different Types
-___
+## Lab 02 -    (Array) Find Minimum ,MAX
+    //    Write a method that can find the maximum number 
+    from an int Array
 
-## Task 1 :
-### create a class called studentinfo
-print Student Name : your name
-print Student id : any number
-print Student Degree : A ,b,c,d
-print student Age : any number
