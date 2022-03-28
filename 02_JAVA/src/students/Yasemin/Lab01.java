@@ -1,6 +1,6 @@
 package src.students.Yasemin;
 
-public class Lab01 {
+public class  Lab01 {
     public static void main(String[] args) {
         System.out.println("Hello\nYasemin Apacik");
         int num1 = 74;
