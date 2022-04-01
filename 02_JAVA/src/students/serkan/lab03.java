@@ -1,4 +1,4 @@
-package serkan;
+package students.serkan;
 
 public class lab03 {
 
