@@ -1,4 +1,4 @@
-package src.students.Yasemin;
+package students.Yasemin;
 
 import java.util.Scanner;
 

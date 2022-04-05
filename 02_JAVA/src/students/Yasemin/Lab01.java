@@ -1,4 +1,4 @@
-package src.students.Yasemin;
+package students.Yasemin;
 
 public class  Lab01 {
     public static void main(String[] args) {
