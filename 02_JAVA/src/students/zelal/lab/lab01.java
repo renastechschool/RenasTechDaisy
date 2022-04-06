@@ -9,6 +9,8 @@ public class lab01 {
         //    Ex:  unique("AAABBBCCCDEF")  ==>  "DEF";
 
         String str = "AAABBBCCCDEF";
+        String s1="AAABBBCCCDEF";
+        System.out.println(unique(s1)); // == unique("AAABBBCCCDEF");
 
 
         char findunique = 0;
@@ -18,6 +20,40 @@ public class lab01 {
             } else
                 System.out.print("" + findunique);
         }
+    }
+// with method
+    public static String unique(String str){
+
+        String answer="";
+
+        String [] arr=str.split("");
+
+        for (int i = 0; i <str.length() ; i++) {
+
+            int count= 0;
+
+            for (int j = 0; j <str.length() ; j++) {
+
+
+                if ( arr[i].equals( arr[j])){ // == , .equals(context )
+
+                    count++;
+                }
+            }
+
+            if (count==1){
+
+                answer +=arr[i];
+            }
+
+
+        }
+
+        return answer;
+
+
+
+
     }
 }
 

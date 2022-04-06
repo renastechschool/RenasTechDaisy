@@ -40,6 +40,50 @@ public class lab3 {
                     }
                 }
             }
+            System.out.println();
+            divisible();
         }
+
+
+        // with methods
+    public static void divisible(){
+
+        String DivisibelBy15="";
+        String DivisibelBy3="";
+        String DivisibelBy5="";
+
+
+        for (int i = 1; i <100 ; i++) {
+
+
+            if ( i % 3==0  && i %5 ==0 && i%15==0){
+
+
+                DivisibelBy15 += i +" ";
+            }
+
+
+            if ( i % 3==0  && i%15 !=0 ){
+
+                DivisibelBy3+=i+" ";
+            }
+
+
+            if (i %5==0  && i%15 !=0){
+
+
+                DivisibelBy5 += i+" ";
+
+            }
+
+
+        }
+
+        System.out.println("DivisibelBy15 = " + DivisibelBy15);
+        System.out.println("DivisibelBy3 = " + DivisibelBy3);
+        System.out.println("DivisibelBy5 = " + DivisibelBy5);
+
+
+    }
     }
 
