@@ -17,5 +17,6 @@ public class lab9 {
             list.remove("Amed");
         }
         System.out.println(list);
+
     }
 }

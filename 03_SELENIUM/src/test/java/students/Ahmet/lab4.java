@@ -33,8 +33,5 @@ public class lab4 {
         select.selectByValue("AUSTRIA");
         select.selectByVisibleText("DENMARK");
 
-
-
-
     }
 }

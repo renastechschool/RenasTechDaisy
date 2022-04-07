@@ -28,6 +28,5 @@ public class lab5 {
         BrowserUtils.wait(2);
         Alert alert = driver.switchTo().alert();
         alert.accept();
-
     }
 }

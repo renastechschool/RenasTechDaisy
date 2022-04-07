@@ -6,6 +6,7 @@ public class lab6 {
            Lab 06 -(Numbers) Factorial Number
            Write a return method that returns the
            factorial number of any given number
+
          */
         int i, factorial = 1;
         int number=5;

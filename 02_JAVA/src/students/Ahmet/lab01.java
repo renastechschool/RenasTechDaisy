@@ -9,6 +9,7 @@ public class lab01 {
         String str="AAABBBCCCDEF";
         uniqueCharacters(str);
     }
+
     public static void uniqueCharacters(String str) {
         char unique = 0;
         for (int i=0;i<str.length();i++){

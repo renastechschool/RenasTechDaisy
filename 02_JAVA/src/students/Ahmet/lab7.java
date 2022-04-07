@@ -41,6 +41,7 @@ public class lab7 {
             number /=10; //  123 /10= > number= 12 , 12 /10 ==> 1 ,  1 /10 = 0;
         }
         return answer;
+
     }
 
     }
