@@ -36,6 +36,5 @@ public class lab2 {
       driver.navigate().back();
       driver.findElement(By.name("q")).sendKeys("Banana"+ Keys.ENTER);
       System.out.println("The title contain Banana "+driver.getTitle());
-
     }
 }

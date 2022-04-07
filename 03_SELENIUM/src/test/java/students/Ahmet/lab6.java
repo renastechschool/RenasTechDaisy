@@ -56,6 +56,5 @@ public class lab6 {
         WebElement Button = driver.findElement(By.id("runbtn"));
         Assert.assertTrue(Button.getText().contains("Run"),"Run Button verification failed");
 
-
     }
 }

@@ -22,6 +22,7 @@ public class lab10 {
                 }
             }
         }
+
         System.out.println(Arrays.toString(arr));
     }
 }

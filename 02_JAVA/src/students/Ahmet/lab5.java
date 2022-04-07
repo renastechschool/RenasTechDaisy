@@ -11,7 +11,6 @@ public class lab5 {
         int sumOfStr= sumOfDigits(str);
 
         System.out.println("sumOfStr = " + sumOfStr);
-
     }
     /**
      *  Sum of the digits from a String.

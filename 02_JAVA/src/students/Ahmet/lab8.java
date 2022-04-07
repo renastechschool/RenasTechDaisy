@@ -6,6 +6,7 @@ public class lab8 {
                  Write a return method that returns the
                  Fibonacci of any given number
      */
+
     public static void main(String[] args) {
         int num1 = 0, nu2=1,nu3,i,count =10;
         System.out.println(num1+""+nu2);

@@ -54,5 +54,6 @@ public class lab1 {
         driver.navigate().refresh();
         Thread.sleep(3000);
         driver.quit();
+
     }
 }

@@ -12,7 +12,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 ####4. Click to checkbox3
 ####5. Verify checkbox3 is selected
  */
-
 public class lab3 {
     public static void main(String[] args) {
         WebDriverManager.chromedriver().setup();
