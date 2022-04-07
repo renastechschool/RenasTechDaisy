@@ -1,7 +1,7 @@
 ##Task 1
 #### Go to https://www.etsy.com/
 #### Maximize window
-#### title doesnt contains "Smile"
+#### title doesnt contain "Smile"
 #### Verify Current Url
 
 ##Task 2
