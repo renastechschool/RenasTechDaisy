@@ -1,0 +1,1 @@
+![What is Database.](img/SQLjoins.png)

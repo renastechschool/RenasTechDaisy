@@ -1,0 +1,2 @@
+![lexi.](img/laptop.png)
+
