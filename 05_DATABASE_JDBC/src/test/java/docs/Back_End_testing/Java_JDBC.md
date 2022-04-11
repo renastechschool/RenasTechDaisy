@@ -6,7 +6,7 @@ JDBC stands for Java Database Connectivity. JDBC is a Java API to connect and ex
 - Network Protocol Driver
 - Thin Driver
 
-The current version of JDBC is 4.3. It is the stable release since 21st September, 2017. It is based on the X/Open SQL Call Level Interface.
+The current version of JDBC is 4.3. It is the stable release since 21st September, 2017. It is based on the X/Open docs.SQL Call Level Interface.
 
 The java.sql package contains classes and interfaces for JDBC API. A list of popular interfaces of JDBC API are given below:
 

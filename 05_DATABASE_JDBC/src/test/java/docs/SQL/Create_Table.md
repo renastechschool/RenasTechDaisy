@@ -1,5 +1,5 @@
 # CREATE TABLE
-- To create a new table SQL, you use the CREATE TABLE statement.
+- To create a new table docs.SQL, you use the CREATE TABLE statement.
 - First, you specify the name of the new table after the **CREATE TABLE** clause
 
 **CREATE TABLE** table name

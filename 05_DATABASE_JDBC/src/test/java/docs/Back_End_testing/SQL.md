@@ -1,49 +1,49 @@
-# SQL (Structured Query Language)
-SQL (Structured Query Language) is used to perform operations on the records stored in the database, such as updating records, inserting records, deleting records, creating and modifying database tables, views, etc.
+# docs.SQL (Structured Query Language)
+docs.SQL (Structured Query Language) is used to perform operations on the records stored in the database, such as updating records, inserting records, deleting records, creating and modifying database tables, views, etc.
 
-SQL is not a database system, but it is a query language.
+docs.SQL is not a database system, but it is a query language.
 
-Suppose you want to perform the queries of SQL language on the stored data in the database. You are required to install any database management system in your systems, for example, Oracle, MySQL, MongoDB, PostgreSQL, SQL Server, DB2, etc.
+Suppose you want to perform the queries of docs.SQL language on the stored data in the database. You are required to install any database management system in your systems, for example, Oracle, MySQL, MongoDB, PostgreSQL, docs.SQL Server, DB2, etc.
 
-# What is SQL?
-SQL is a short-form of the structured query language, and it is pronounced as S-Q-L or sometimes as See-Quell.
+# What is docs.SQL?
+docs.SQL is a short-form of the structured query language, and it is pronounced as S-Q-L or sometimes as See-Quell.
 
 This database language is mainly designed for maintaining the data in relational database management systems. It is a special tool used by data professionals for handling structured data (data which is stored in the form of tables). It is also designed for stream processing in RDSMS.
 
 You can easily create and manipulate the database, access and modify the table rows and columns, etc. This query language became the standard of ANSI in the year of 1986 and ISO in the year of 1987.
 
-If you want to get a job in the field of data science, then it is the most important query language to learn. Big enterprises like Facebook, Instagram, and LinkedIn, use SQL for storing the data in the back-end.
+If you want to get a job in the field of data science, then it is the most important query language to learn. Big enterprises like Facebook, Instagram, and LinkedIn, use docs.SQL for storing the data in the back-end.
 
-# Why SQL?
-Nowadays, SQL is widely used in data science and analytics. Following are the reasons which explain why it is widely used:
+# Why docs.SQL?
+Nowadays, docs.SQL is widely used in data science and analytics. Following are the reasons which explain why it is widely used:
 
-- The basic use of SQL for data professionals and SQL users is to insert, update, and delete the data from the relational database.
-- SQL allows the data professionals and users to retrieve the data from the relational database management systems.
+- The basic use of docs.SQL for data professionals and docs.SQL users is to insert, update, and delete the data from the relational database.
+- docs.SQL allows the data professionals and users to retrieve the data from the relational database management systems.
 - It also helps them to describe the structured data.
-- It allows SQL users to create, drop, and manipulate the database and its tables.
+- It allows docs.SQL users to create, drop, and manipulate the database and its tables.
 - It also helps in creating the view, stored procedure, and functions in the relational database.
 - It allows you to define the data and modify that stored data in the relational database.
-- It also allows SQL users to set the permissions or constraints on table columns, views, and stored procedures.
+- It also allows docs.SQL users to set the permissions or constraints on table columns, views, and stored procedures.
 
-History of SQL
+History of docs.SQL
 "A Relational Model of Data for Large Shared Data Banks" was a paper which was published by the great computer scientist "E.F. Codd" in 1970.
 
-The IBM researchers Raymond Boyce and Donald Chamberlin originally developed the SEQUEL (Structured English Query Language) after learning from the paper given by E.F. Codd. They both developed the SQL at the San Jose Research laboratory of IBM Corporation in 1970.
+The IBM researchers Raymond Boyce and Donald Chamberlin originally developed the SEQUEL (Structured English Query Language) after learning from the paper given by E.F. Codd. They both developed the docs.SQL at the San Jose Research laboratory of IBM Corporation in 1970.
 
-At the end of the 1970s, relational software Inc. developed their own first SQL using the concepts of E.F. Codd, Raymond Boyce, and Donald Chamberlin. This SQL was totally based on RDBMS. Relational Software Inc., which is now known as Oracle Corporation, introduced the Oracle V2 in June 1979, which is the first implementation of SQL language. This Oracle V2 version operates on VAX computers.
+At the end of the 1970s, relational software Inc. developed their own first docs.SQL using the concepts of E.F. Codd, Raymond Boyce, and Donald Chamberlin. This docs.SQL was totally based on RDBMS. Relational Software Inc., which is now known as Oracle Corporation, introduced the Oracle V2 in June 1979, which is the first implementation of docs.SQL language. This Oracle V2 version operates on VAX computers.
 
-# Process of SQL
-When we are executing the command of SQL on any Relational database management system, then the system automatically finds the best routine to carry out our request, and the SQL engine determines how to interpret that particular command.
+# Process of docs.SQL
+When we are executing the command of docs.SQL on any Relational database management system, then the system automatically finds the best routine to carry out our request, and the docs.SQL engine determines how to interpret that particular command.
 
 Structured Query Language contains the following four components in its process:
 
 - Query Dispatcher
 - Optimization Engines
 - Classic Query Engine
-- SQL Query Engine, etc.
+- docs.SQL Query Engine, etc.
 
-# Some SQL Commands
-The SQL commands help in creating and managing the database. The most common SQL commands which are highly used are mentioned below:
+# Some docs.SQL Commands
+The docs.SQL commands help in creating and managing the database. The most common docs.SQL commands which are highly used are mentioned below:
 
 1) CREATE command
 2) UPDATE command
@@ -72,49 +72,49 @@ This command helps in deleting the entire table, table view, and other objects f
 ## INSERT Command
 This command helps in inserting the data or records into the database tables. We can easily insert the records in single as well as multiple rows of the table.
 
-## SQL vs No-SQL
-Down below are the  differences between the SQL and NoSQL, which are necessary to understand:
+## docs.SQL vs No-docs.SQL
+Down below are the  differences between the docs.SQL and NoSQL, which are necessary to understand:
 
-## SQL	
-1) SQL is a relational database management system.
+## docs.SQL	
+1) docs.SQL is a relational database management system.
 2) The query language used in this database system is a structured query language.
-3) The schema of SQL databases is predefined, fixed, and static.
+3) The schema of docs.SQL databases is predefined, fixed, and static.
 4) These databases are vertically scalable.
-5) The database type of SQL is in the form of tables, i.e., in the form of rows and columns.
+5) The database type of docs.SQL is in the form of tables, i.e., in the form of rows and columns.
 6) It follows the ACID model.
-10. Complex queries are easily managed in the SQL database.
+10. Complex queries are easily managed in the docs.SQL database.
 11. This database is not the best choice for storing hierarchical data.
-12. All SQL databases require object-relational mapping.
+12. All docs.SQL databases require object-relational mapping.
 13. Gauges, CircleCI, Hootsuite, etc., are the top enterprises that are using this query language.
-14. SQLite, Ms-SQL, Oracle, PostgreSQL, and MySQL are examples of SQL database systems.
+14. SQLite, Ms-docs.SQL, Oracle, PostgreSQL, and MySQL are examples of docs.SQL database systems.
 
-## No-SQL
-1) While No-SQL is a non-relational or distributed database management system.
-2) The query language used in the No-SQL database systems is a non-declarative query language.
-3) The schema of No-SQL databases is a dynamic schema for unstructured data.	
+## No-docs.SQL
+1) While No-docs.SQL is a non-relational or distributed database management system.
+2) The query language used in the No-docs.SQL database systems is a non-declarative query language.
+3) The schema of No-docs.SQL databases is a dynamic schema for unstructured data.	
 4) These databases are horizontally scalable.
-5) The database type of No-SQL is in the form of documents, key-value, and graphs.
+5) The database type of No-docs.SQL is in the form of documents, key-value, and graphs.
 6) It follows the BASE model.
 7) NoSQL databases cannot handle complex queries.
-8) While No-SQL database is a perfect option for storing hierarchical data.
-9) Many No-SQL databases do not require object-relational mapping.
+8) While No-docs.SQL database is a perfect option for storing hierarchical data.
+9) Many No-docs.SQL databases do not require object-relational mapping.
 10) Airbnb, Uber, and Kickstarter are the top enterprises that are using this query language.
 11) Redis, MongoDB, Hbase, BigTable, CouchDB, and Cassandra are examples of NoSQL database systems.
 
-# Advantages of SQL
-SQL provides various advantages which make it more popular in the field of data science. It is a perfect query language which allows data professionals and users to communicate with the database. Following are the best advantages or benefits of Structured Query Language:
+# Advantages of docs.SQL
+docs.SQL provides various advantages which make it more popular in the field of data science. It is a perfect query language which allows data professionals and users to communicate with the database. Following are the best advantages or benefits of Structured Query Language:
 
 1. No programming needed
 
-SQL does not require a large number of coding lines for managing the database systems. We can easily access and maintain the database by using simple SQL syntactical rules. These simple rules make the SQL user-friendly.
+docs.SQL does not require a large number of coding lines for managing the database systems. We can easily access and maintain the database by using simple docs.SQL syntactical rules. These simple rules make the docs.SQL user-friendly.
 
 2. High-Speed Query Processing
 
-A large amount of data is accessed quickly and efficiently from the database by using SQL queries. Insertion, deletion, and updation operations on data are also performed in less time.
+A large amount of data is accessed quickly and efficiently from the database by using docs.SQL queries. Insertion, deletion, and updation operations on data are also performed in less time.
 
 3. Standardized Language
 
-SQL follows the long-established standards of ISO and ANSI, which offer a uniform platform across the globe to all its users.
+docs.SQL follows the long-established standards of ISO and ANSI, which offer a uniform platform across the globe to all its users.
 
 4. Portability
 
@@ -122,52 +122,52 @@ The structured query language can be easily used in desktop computers, laptops, 
 
 5. Interactive language
 
-We can easily learn and understand the SQL language. We can also use this language for communicating with the database because it is a simple query language. This language is also used for receiving the answers to complex queries in a few seconds.
+We can easily learn and understand the docs.SQL language. We can also use this language for communicating with the database because it is a simple query language. This language is also used for receiving the answers to complex queries in a few seconds.
 
 6. More than one Data View
 
-The SQL language also helps in making the multiple views of the database structure for the different database users.
+The docs.SQL language also helps in making the multiple views of the database structure for the different database users.
 
-Disadvantages of SQL
-With the advantages of SQL, it also has some disadvantages, which are as follows:
+Disadvantages of docs.SQL
+With the advantages of docs.SQL, it also has some disadvantages, which are as follows:
 
 1. Cost
 
-The operation cost of some SQL versions is high. That's why some programmers cannot use the Structured Query Language.
+The operation cost of some docs.SQL versions is high. That's why some programmers cannot use the Structured Query Language.
 
 2. Interface is Complex
 
-Another big disadvantage is that the interface of Structured query language is difficult, which makes it difficult for SQL users to use and manage it.
+Another big disadvantage is that the interface of Structured query language is difficult, which makes it difficult for docs.SQL users to use and manage it.
 
 3. Partial Database control
 
 The business rules are hidden. So, the data professionals and users who are using this query language cannot have full database control.
 
 
-# SQL Syntax
-When you want to do some operations on the data in the database, then you must have to write the query in the predefined syntax of SQL.
+# docs.SQL Syntax
+When you want to do some operations on the data in the database, then you must have to write the query in the predefined syntax of docs.SQL.
 
 The syntax of the structured query language is a unique set of rules and guidelines, which is not case-sensitive. Its Syntax is defined and maintained by the ISO and ANSI standards.
 
-Following are some most important points about the SQL syntax which are to remember:
+Following are some most important points about the docs.SQL syntax which are to remember:
 
-- You can write the keywords of SQL in both uppercase and lowercase, but writing the SQL keywords in uppercase improves the readability of the SQL query.
-- SQL statements or syntax are dependent on text lines. We can place a single SQL statement on one or multiple text lines.
-- You can perform most of the action in a database with SQL statements.
-- SQL syntax depends on relational algebra and tuple relational calculus.
-# SQL Statement
-SQL statements tell the database what operation you want to perform on the structured data and what information you would like to access from the database.
+- You can write the keywords of docs.SQL in both uppercase and lowercase, but writing the docs.SQL keywords in uppercase improves the readability of the docs.SQL query.
+- docs.SQL statements or syntax are dependent on text lines. We can place a single docs.SQL statement on one or multiple text lines.
+- You can perform most of the action in a database with docs.SQL statements.
+- docs.SQL syntax depends on relational algebra and tuple relational calculus.
+# docs.SQL Statement
+docs.SQL statements tell the database what operation you want to perform on the structured data and what information you would like to access from the database.
 
-The statements of SQL are very simple and easy to use and understand. They are like plain English but with a particular syntax.
+The statements of docs.SQL are very simple and easy to use and understand. They are like plain English but with a particular syntax.
 
-### Simple Example of SQL statement:
+### Simple Example of docs.SQL statement:
 ```
 SELECT "column_name" FROM "table_name";    
 ```
 
-Each SQL statement begins with any of the SQL keywords and ends with the semicolon (;). The semicolon is used in the SQL for separating the multiple Sql statements which are going to execute in the same call. In this SQL tutorial, we will use the semicolon (;) at the end of each SQL query or statement.
+Each docs.SQL statement begins with any of the docs.SQL keywords and ends with the semicolon (;). The semicolon is used in the docs.SQL for separating the multiple Sql statements which are going to execute in the same call. In this docs.SQL tutorial, we will use the semicolon (;) at the end of each docs.SQL query or statement.
 
-## Most Important SQL Commands and Statements
+## Most Important docs.SQL Commands and Statements
 1) Select Statement
 2) Update Statement
 3) Delete Statement
@@ -190,7 +190,7 @@ Each SQL statement begins with any of the SQL keywords and ends with the semicol
 ##Here are some examples with syntax:
 
 ## 1. SELECT Statement
-   This SQL statement reads the data from the SQL database and shows it as the output to the database user.
+   This docs.SQL statement reads the data from the docs.SQL database and shows it as the output to the database user.
 
 Syntax of SELECT Statement:
 ```
@@ -210,7 +210,7 @@ This example shows the **Emp_ID, First_Name, Last_Name, Salary, and City** of th
 
 
 ## 2. UPDATE Statement
-   This SQL statement changes or modifies the stored data in the SQL database.
+   This docs.SQL statement changes or modifies the stored data in the docs.SQL database.
 
 **Syntax of UPDATE Statement**:
 ```
@@ -221,7 +221,7 @@ SET column_name1 = new_value_1, column_name2 = new_value_2, ...., column_nameN =
 **Example of UPDATE Statement:**
 
 ## 3. DELETE Statement
-   This SQL statement deletes the stored data from the SQL database.
+   This docs.SQL statement deletes the stored data from the docs.SQL database.
 
 **Syntax of DELETE Statement:**
 ```
@@ -237,7 +237,7 @@ WHERE First_Name = 'Sumit';
 This example deletes the record of those employees from the **Employee_details** table whose **First_Name** is **Sumit** in the table.
 
 ## 4. CREATE TABLE Statement
-   This SQL statement creates the new table in the SQL database.
+   This docs.SQL statement creates the new table in the docs.SQL database.
 
 **Syntax of CREATE TABLE Statement:**
 ```
@@ -264,24 +264,24 @@ PRIMARY KEY (Emp_Id)
 );  
 ```
 
-This example creates the table **Employee_details** with five columns or fields in the SQL database. The fields in the table are **Emp_Id, First_Name, Last_Name, Salary**, and **City**. The **Emp_Id** column in the table acts as a **primary key**, which means that the Emp_Id column cannot contain duplicate values and null values.
+This example creates the table **Employee_details** with five columns or fields in the docs.SQL database. The fields in the table are **Emp_Id, First_Name, Last_Name, Salary**, and **City**. The **Emp_Id** column in the table acts as a **primary key**, which means that the Emp_Id column cannot contain duplicate values and null values.
 
 ## 5. ALTER TABLE Statement
-   This SQL statement adds, deletes, and modifies the columns of the table in the SQL database.
+   This docs.SQL statement adds, deletes, and modifies the columns of the table in the docs.SQL database.
 
 **Syntax of ALTER TABLE Statement:**
 ```
 ALTER TABLE table_name ADD column_name datatype[(size)];  
 ```
-The above SQL alter statement adds the column with its datatype in the existing database table.
+The above docs.SQL alter statement adds the column with its datatype in the existing database table.
 ```
 ALTER TABLE table_name MODIFY column_name column_datatype[(size)]; 
 ``` 
-The above 'SQL alter statement' renames the old column name to the new column name of the existing database table.
+The above 'docs.SQL alter statement' renames the old column name to the new column name of the existing database table.
 ```
 ALTER TABLE table_name DROP COLUMN column_name; 
 ``` 
-The above SQL alter statement deletes the column of the existing database table.
+The above docs.SQL alter statement deletes the column of the existing database table.
 
 
 **Example of ALTER TABLE Statement:**
@@ -289,10 +289,10 @@ The above SQL alter statement deletes the column of the existing database table.
 ALTER TABLE Employee_details   
 ADD Designation VARCHAR(18); 
 ``` 
-This example adds the new field whose name is **Designation** with size **18** in the **Employee_details** table of the SQL database.
+This example adds the new field whose name is **Designation** with size **18** in the **Employee_details** table of the docs.SQL database.
 
 ## 6. DROP TABLE Statement
-   This SQL statement deletes or removes the table and the structure, views, permissions, and triggers associated with that table.
+   This docs.SQL statement deletes or removes the table and the structure, views, permissions, and triggers associated with that table.
 
 **Syntax of DROP TABLE Statement:**
 ```
@@ -305,11 +305,11 @@ The above syntax of the drop statement deletes specified tables completely if th
 ```
 DROP TABLE Employee_details;  
 ``` 
-This example drops the Employee_details table if it exists in the SQL database. This removes the complete information if available in the table.
+This example drops the Employee_details table if it exists in the docs.SQL database. This removes the complete information if available in the table.
 
 ## 7. CREATE DATABASE Statement
 
-This SQL statement creates the new database in the database management system.
+This docs.SQL statement creates the new database in the database management system.
 
 **Syntax of CREATE DATABASE Statement:**
 ```
@@ -322,7 +322,7 @@ CREATE DATABASE Company;
 The above example creates the company database in the system.
 
 ## 8. DROP DATABASE Statement
-   This SQL statement deletes the existing database with all the data tables and views from the database management system.
+   This docs.SQL statement deletes the existing database with all the data tables and views from the database management system.
 
 **Syntax of DROP DATABASE Statement:**
 ```
@@ -336,7 +336,7 @@ The above example deletes the company database from the system.
 
 ## 9. INSERT INTO Statement
 
-This SQL statement inserts the data or records in the existing table of the SQL database. This statement can easily insert single and multiple records in a single query statement.
+This docs.SQL statement inserts the data or records in the existing table of the docs.SQL database. This statement can easily insert single and multiple records in a single query statement.
 
 **Syntax of insert a single record:**
 ```
@@ -390,7 +390,7 @@ VALUES (101, Amit, Gupta, 50000, Mumbai), (101,  John, Aggarwal, 45000, Calcutta
 This example inserts the records of three employees in the Employee_details table in the single query statement.
 
 ## 10. TRUNCATE TABLE Statement
-    This SQL statement deletes all the stored records from the table of the SQL database.
+    This docs.SQL statement deletes all the stored records from the table of the docs.SQL database.
 
 **Syntax of TRUNCATE TABLE Statement:**
 ```
@@ -404,7 +404,7 @@ TRUNCATE TABLE Employee_details;
 This example deletes the record of all employees from the Employee_details table of the database.
 
 ## 11. DESCRIBE Statement
-    This SQL statement tells something about the specified table or view in the query.
+    This docs.SQL statement tells something about the specified table or view in the query.
 
 **Syntax of DESCRIBE Statement:**
 ```
@@ -417,7 +417,7 @@ DESCRIBE Employee_details;
 This example explains the structure and other details about the Employee_details table.
 
 ## 12. DISTINCT Clause
-    This SQL statement shows the distinct values from the specified columns of the database table. This statement is used with the SELECT keyword.
+    This docs.SQL statement shows the distinct values from the specified columns of the database table. This statement is used with the SELECT keyword.
 
 **Syntax of DISTINCT Clause:**
 ```
@@ -432,7 +432,7 @@ FROM Employee_details;
 This example shows the distinct values of the **City** and **Salary** column from the **Employee_details** table.
 
 ## 13. COMMIT Statement
-This SQL statement saves the changes permanently, which are done in the transaction of the SQL database.
+This docs.SQL statement saves the changes permanently, which are done in the transaction of the docs.SQL database.
 
 **Syntax of COMMIT Statement:**
 ```
@@ -448,7 +448,7 @@ This example deletes the records of those employees whose Salary is 30000 and th
 
 ## 14. ROLLBACK Statement
 
-This SQL statement undo the transactions and operations which are not yet saved to the SQL database.
+This docs.SQL statement undo the transactions and operations which are not yet saved to the docs.SQL database.
 
 **Syntax of ROLLBACK Statement:**
 ```
@@ -463,7 +463,7 @@ ROLLBACK;
 This example deletes the records of those employees whose **City** is **Mumbai** and then undo the changes in the database.
 
 ## 15. CREATE INDEX Statement
-This SQL statement creates the new index in the SQL database table.
+This docs.SQL statement creates the new index in the docs.SQL database table.
 
 **Syntax of CREATE INDEX Statement:**
 ```
@@ -478,7 +478,7 @@ ON employee_details (First_Name);
 This example creates an index idx_First_Name on the First_Name column of the Employee_details table.
 
 ## 16. DROP INDEX Statement
-This SQL statement deletes the existing index of the SQL database table.
+This docs.SQL statement deletes the existing index of the docs.SQL database table.
 
 **Syntax of DROP INDEX Statement:**
 ```
@@ -488,10 +488,10 @@ DROP INDEX index_name;
 ```
 DROP INDEX idx_First_Name;  
 ``` 
-This example deletes the index idx_First_Name from the SQL database.
+This example deletes the index idx_First_Name from the docs.SQL database.
 
 ## 17. USE Statement
-This SQL statement selects the existing SQL database. Before performing the operations on the database table, you have to select the database from the multiple existing databases.
+This docs.SQL statement selects the existing docs.SQL database. Before performing the operations on the database table, you have to select the database from the multiple existing databases.
 
 **Syntax of USE Statement:**
 ```
@@ -503,7 +503,7 @@ USE Company;
 ```  
 This example uses the company database.
 
-# SQL Data Types
+# docs.SQL Data Types
 Data types are used to represent the nature of the data that can be stored in the database table. For example, in a particular column of a table, if we want to store a string type of data then we will have to declare a string data type of this column.
 
 Data types mainly classified into three categories for every database.
