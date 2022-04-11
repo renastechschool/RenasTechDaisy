@@ -5,7 +5,7 @@ each column in case we want to query data from multiple columns.
 - If we want to query data from all column, we can use an asterisk ( * )
 as the shorthand for all columns.
 - Second, we indicate the table name after the FROM keyword
-- docs.SQL language is case INSENSITIVE
+- SQL language is case INSENSITIVE
 
 
 ## SELECT STATEMENT

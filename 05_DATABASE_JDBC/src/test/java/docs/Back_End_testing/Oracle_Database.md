@@ -4,12 +4,12 @@ Oracle database is a relational database management system (RDBMS) from Oracle C
 ## What is a database?
 A database refers to the **organized collection of structured data** stored electronically in a device. It allows us to access, manage, and find relevant information frequently. The flat file structure was extensively used to store data before the database system was invented. The relational database approach becomes popular in comparison to the flat file model because it eliminates redundant data. **For example**, suppose we have an employee and contact information stored in the same file. In such a case, the employees with multiple contacts will show up in many rows.
 
-The RDBMS system manages the relational data. Oracle Database is the most famous relational database system (RDBMS) because it shares the largest part of a market among other relational databases. Some other popular relational databases are MySQL, DB2, docs.SQL Server, PostgreSQL, etc.
+The RDBMS system manages the relational data. Oracle Database is the most famous relational database system (RDBMS) because it shares the largest part of a market among other relational databases. Some other popular relational databases are MySQL, DB2, SQL Server, PostgreSQL, etc.
 
 ## What is the Oracle database?
 Oracle database is a relational database management system. It is also called **OracleDB**, or simply **Oracle**. It is produced and marketed by **Oracle Corporation**. It was created in **1977** by **Lawrence Ellison** and other engineers. It is one of the most popular relational database engines in the IT market for storing, organizing, and retrieving data.
 
-Oracle database was the first DB that designed for enterprise grid computing and data warehousing. Enterprise grid computing provides the most flexible and cost-effective way to manage information and applications. It uses docs.SQL queries as a language for interacting with the database.
+Oracle database was the first DB that designed for enterprise grid computing and data warehousing. Enterprise grid computing provides the most flexible and cost-effective way to manage information and applications. It uses SQL queries as a language for interacting with the database.
 
 #Editions of Oracle database
 Oracle database is compatible with a wide range of platforms such as Windows, UNIX, Linux, and macOS. It supports several operating systems like IBM AIX, HP-UX, Linux, Microsoft Windows Server, Solaris, SunOS, macOS, etc. In the late 1990s, Oracle began supporting open platforms like GNU/Linux.
@@ -23,22 +23,22 @@ Oracle Lite: It is designed for mobile devices.
 - Personal Edition: It's comparable to the Enterprise Edition but without the Oracle Real Application Clusters feature.
 
 # The Oracle Corporation
-Oracle Corporation is the largest software company to develop and markets computer software applications for business. The company is best known for its Oracle database products and, more recently, cloud products and services. Its relational database was the first to support docs.SQL, which has since become the industry standard.
+Oracle Corporation is the largest software company to develop and markets computer software applications for business. The company is best known for its Oracle database products and, more recently, cloud products and services. Its relational database was the first to support SQL, which has since become the industry standard.
 
-Oracle database is one of the most trusted and widely used relational database engines. The biggest rival of Oracle database is Microsoft's docs.SQL Server.
+Oracle database is one of the most trusted and widely used relational database engines. The biggest rival of Oracle database is Microsoft's SQL Server.
 
 # History of Oracle
 **Oracle Corporation was founded by Lawrence Ellison (Larry Ellison), Bob Miner, Ed Oates, and Bruce Scott in August 1977**. They have a lot of experience in building database programs for several companies and builds their first project (a special database program) for the **CIA (Central Intelligence Agency).** Oracle was named after "Project Oracle," a project for one of their clients named Central Intelligence Agency, and the company that created Oracle was called Systems Development Labs (SDL). **Systems Development Labs** was renamed Relational Software Inc. (RSI) in 1978 to expand their market for the new database. They had again changed the name of the company from RSI to Oracle Systems Corporation in 1982.
 
-The first commercially available RDBMS named **Oracle V2 (Version 2)** was built using PDP-11 assembler language (docs.SQL-based RDBMS). Although they already developed a commercial RDBMS in 1977, it wasn't available for purchase until 1979, when Oracle version 2 was released.
+The first commercially available RDBMS named **Oracle V2 (Version 2)** was built using PDP-11 assembler language (SQL-based RDBMS). Although they already developed a commercial RDBMS in 1977, it wasn't available for purchase until 1979, when Oracle version 2 was released.
 
-**In 1983**, Oracle database portable version named "Oracle version 3" was released. This version was written in the C programming language. It was the first relational database that can run in mainframes, minicomputers, PCs, or any hardware with a C compiler. It also supports docs.SQL queries and transactions execution.
+**In 1983**, Oracle database portable version named "Oracle version 3" was released. This version was written in the C programming language. It was the first relational database that can run in mainframes, minicomputers, PCs, or any hardware with a C compiler. It also supports SQL queries and transactions execution.
 
 The other subsequent versions are:
 
 - **In 1984**, Oracle 4 was released that supports Transactions [Commit/Rollback], export/import utilities, and the report writer.
 - **In 1985**, Oracle 5 was released, which provides support for Client-Server Architecture. This new feature has the capability to connect the client's software to a database server through a network.
-- **In 1989**, Oracle 6 added support for PL/docs.SQL language. It also comes with new features such as OLTP high-speed systems, hot backup capability, and row-level locking.
+- **In 1989**, Oracle 6 added support for PL/SQL language. It also comes with new features such as OLTP high-speed systems, hot backup capability, and row-level locking.
 - **In 1992**, Oracle 7 was released. This version comes in the market as a result of four years of hard work and two years of customer testing. It added some exciting features and capabilities in the area of security, administration, development, and performance.
 - **In 1997**, Oracle 8 was released. This version comes with the support of ORDBMS that was designed to work with Oracle's network computer (NC). It also added support for Java, HTML, and OLTP.
 - **In 1998**, Oracle 8i was released. Here 'I' stands for Internet. It was the first database version that added support for Web technologies such as Java and HTTP.
@@ -91,7 +91,7 @@ The following are the main advantages of an Oracle database:
 - Performance
 - Portability
 - Backup and Recovery
-- PL/docs.SQL
+- PL/SQL
 - Multiple Database
 - Flashback Technology
 
@@ -101,9 +101,9 @@ The following are the main advantages of an Oracle database:
 
 **Portability**: The Oracle database can be ported on all different platforms than any of its competitors. We can use this database on around 20 networking protocols as well as over 100 hardware platforms. This database makes it simple to write an Oracle application by making changes to the OS and hardware in a secure manner.
 
-**Backup and Recovery**: It is always better to take a proper backup of your entire oracle online backup and recovery. The Oracle database makes it easy to accomplish recovery quickly by using the. RMAN (Recovery Manager) functionality. It can recover or restore database files during downtime or outages. It can be used for online backups, archived backups, and continuous archiving. We can also use docs.SQL* PLUS for recovery, which is known as user-managed recovery.
+**Backup and Recovery**: It is always better to take a proper backup of your entire oracle online backup and recovery. The Oracle database makes it easy to accomplish recovery quickly by using the. RMAN (Recovery Manager) functionality. It can recover or restore database files during downtime or outages. It can be used for online backups, archived backups, and continuous archiving. We can also use SQL* PLUS for recovery, which is known as user-managed recovery.
 
-**PL/docs.SQL**: One of the greatest benefits of using the Oracle database is to support PL/docs.SQL extension for procedural programming.
+**PL/SQL**: One of the greatest benefits of using the Oracle database is to support PL/SQL extension for procedural programming.
 
 **Multiple Database**: Oracle database allows several database instances management on a single server. It provides an instance caging approach for managing CPU allocations on a server hosting database instances. The database resource management and instance caging can work together to manage services across multiple instances.
 
@@ -122,7 +122,7 @@ The following are the disadvantages of the Oracle database:
 - **Complexity**: Oracle is not recommended to use when the users are not technically savvy and have limited technical skills required to deal with the Oracle Database. It is also not advised to use if the company is looking for a database with limited functionality and easy to use.
 
 
-- **Cost**: The price of Oracle products is very high in comparison to other databases. Therefore users are more likely to choose other less expensive options such as MS docs.SQL Server, MySQL, etc.
+- **Cost**: The price of Oracle products is very high in comparison to other databases. Therefore users are more likely to choose other less expensive options such as MS SQL Server, MySQL, etc.
 
 
 - **Difficult to manage**: Oracle databases are often much more complex and difficult in terms of the management of certain activities.

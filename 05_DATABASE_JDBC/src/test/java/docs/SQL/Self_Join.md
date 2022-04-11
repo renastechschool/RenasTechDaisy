@@ -21,5 +21,5 @@ e1.manager_id,e2.last_name
 
 We use self join when we want to combine rows with other rows in the
 same table. To perform the self join operation, we must use a table
-alias to help docs.SQL distinguish the left table from the right table of the
+alias to help SQL distinguish the left table from the right table of the
 same table.

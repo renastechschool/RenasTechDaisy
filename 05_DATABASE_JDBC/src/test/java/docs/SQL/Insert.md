@@ -1,7 +1,7 @@
 # INSERT
 - When you create a new table, it does not have any data.
 - The first thing you often do is to insert new rows into the table.
-- docs.SQL provides the INSERT statement that allows you to insert one or
+- SQL provides the INSERT statement that allows you to insert one or
 more rows into a table at a time.
 
 

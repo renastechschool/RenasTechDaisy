@@ -95,7 +95,7 @@ database
 ## RDBMS
 
 - RDBMS --> Relational Database management system.
-- All RDBMS using docs.SQL language
+- All RDBMS using SQL language
 - Relational Database --> tables are related to each other using Primary and  foreign keys
 
 
@@ -113,13 +113,13 @@ and using  Foreign key tables are related to each other.
 - Foreign key is the primary key of another table
 - It can be duplicate or null for another table
 
-## What is docs.SQL?
-- docs.SQL - > STRUCTURED QUERY LANGUAGE
-- docs.SQL is a language that is used to work with
+## What is SQL?
+- SQL - > STRUCTURED QUERY LANGUAGE
+- SQL is a language that is used to work with
 Databases and  manipulate data.
 
 
-##docs.SQL Statements
+##SQL Statements
 
 ### Data Manipulation Language (DML) :
 
@@ -142,7 +142,7 @@ Databases and  manipulate data.
 |  COMMIT  |  ROLLBACK  |  SAVEPOINT  |
 
 
-## What is QUERY in docs.SQL?
+## What is QUERY in SQL?
 
 - A set of instructions. 
 - Telling Database Management System that we would like to do.
@@ -169,7 +169,7 @@ columns.
 - If we want to query data from all column, we can use an asterisk
 ( * ) as the  shorthand for all columns.
 - Second, we indicate the table name after the FROM keyword
-- docs.SQL language is case INSENSITIVE
+- SQL language is case INSENSITIVE
 
 
 # Select Statement Syntax
