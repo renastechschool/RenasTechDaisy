@@ -44,8 +44,7 @@ public class c3_Windows extends TestBase {
         //span[.='Contact']
         //span[.='Contact'])[1]
                 // (//span[.='Contact' and @class='elementor-icon-list-text'])[1]
-
-                        driver.findElement(By.xpath("(//span[.='Contact' and @class='elementor-icon-list-text'])[1]")).click();
+        driver.findElement(By.xpath("(//span[.='Contact' and @class='elementor-icon-list-text'])[1]")).click();
 
     }
 

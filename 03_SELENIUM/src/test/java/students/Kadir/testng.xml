@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Login">
+        <classes>
+            <class name="students.Kadir.lab07_Login_Page"/>
+        </classes>
+    </test>
+    <test name="Home">
+        <classes>
+            <class name="students.Kadir.Lab07_Home_Page"/>
+        </classes>
+    </test>
+
+    <test name="Add New Costumer">
+        <classes>
+            <class name="students.Kadir.lab07_NewCustomer_Page"/>
+        </classes>
+    </test>
+           
+</suite>

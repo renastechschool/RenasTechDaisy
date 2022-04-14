@@ -1,3 +1,4 @@
+
 package code.day06;
 
 public class C7IfPractice {
