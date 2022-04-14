@@ -13,3 +13,6 @@ out
 07_MOBILE/target
 07_MOBILE/07_MOBILE.iml
 production
+*.iml
+*.DS_Store
+
