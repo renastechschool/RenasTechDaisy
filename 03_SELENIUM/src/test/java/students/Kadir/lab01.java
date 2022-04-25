@@ -12,8 +12,8 @@ package students.Kadir;
         #### Refresh
         #### Quit browser*/
 
+
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
@@ -23,7 +23,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 public class lab01 {
-    protected  WebDriver driver;
+    protected WebDriver driver;
 
     @BeforeMethod
     public  void setUp(){
