@@ -23,7 +23,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 public class lab01 {
-    protected WebDriver driver;
+    protected  WebDriver driver;
 
     @BeforeMethod
     public  void setUp(){
