@@ -1,6 +1,6 @@
-package code.pages;
+package code.renastech.pages;
 
-import code.utils.BrowserUtils;
+import code.renastech.utils.BrowserUtils;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

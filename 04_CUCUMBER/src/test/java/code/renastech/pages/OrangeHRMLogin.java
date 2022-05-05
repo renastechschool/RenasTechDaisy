@@ -1,7 +1,7 @@
-package code.pages;
+package code.renastech.pages;
 
-import code.utils.BrowserUtils;
-import code.utils.ConfigurationsReader;
+import code.renastech.utils.BrowserUtils;
+import code.renastech.utils.ConfigurationsReader;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -17,13 +17,18 @@ public class OrangeHRMLogin extends BrowserUtils {
     @FindBy(id = "btnLogin")
     private WebElement loginbutton;
 
-    public void setUsername(){
-        username.sendKeys(ConfigurationsReader.getProperties("username"));
-    }
+    public void setUsername(){ username.sendKeys(ConfigurationsReader.getProperties("username")); }
     public void setPassword(){
         password.sendKeys(ConfigurationsReader.getProperties("password"));
     }
     public void setLoginbutton(){
         loginbutton.click();
+    }
+
+    public void setDataFromExcel(String Username,String Password){
+        username.sendKeys(Username);
+        password.sendKeys(Password);
+        loginbutton.click();
+
     }
 }

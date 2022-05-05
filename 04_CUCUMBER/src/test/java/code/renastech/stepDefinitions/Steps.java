@@ -1,11 +1,11 @@
-package code.stepDefinitions;
+package code.renastech.stepDefinitions;
 
-import code.pages.Home;
-import code.pages.Payment;
-import code.pages.Verification;
-import code.utils.BrowserUtils;
-import code.utils.ConfigurationsReader;
-import code.utils.Driver;
+import code.renastech.pages.Home;
+import code.renastech.pages.Payment;
+import code.renastech.pages.Verification;
+import code.renastech.utils.BrowserUtils;
+import code.renastech.utils.ConfigurationsReader;
+import code.renastech.utils.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
