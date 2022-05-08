@@ -83,6 +83,6 @@ public class c3_Dropdown {
 
     @AfterMethod
     public void closing(){
-        //driver.close();
+        driver.close();
     }
 }

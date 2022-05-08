@@ -8,8 +8,6 @@ Feature: Orange HRM functionality scenarios
     And The user should be able to navigate dashboard
 
 
-<<<<<<< HEAD
-=======
     @smoke @TC100
   Scenario: Add new personal
     Given The user wants to go to orangeHRM application
@@ -84,5 +82,3 @@ Feature: Orange HRM functionality scenarios
 
 
 
-
->>>>>>> acfcf2bffff0fe85fed1bd24f887eaa9d374f12d
