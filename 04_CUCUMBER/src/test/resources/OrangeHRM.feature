@@ -6,3 +6,5 @@ Feature: Orange HRM functionality scenarios
     When The user wants to enter username and password
     Then The user wants to click login
     And The user should be able to navigate dashboard
+
+

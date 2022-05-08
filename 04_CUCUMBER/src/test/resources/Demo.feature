@@ -1,6 +1,5 @@
 Feature: Payment Gateway functional test
 
-
   Scenario: Verify that the user can order a product
     Given The user wants to see payment gateway website
     When  The user wants to buy elephant toy

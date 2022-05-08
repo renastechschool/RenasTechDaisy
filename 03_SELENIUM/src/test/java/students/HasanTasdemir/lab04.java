@@ -6,12 +6,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
 public class lab04 {
-    public static void main(String[] args) {
-
+    @Test
+    public void TC_Lab03(){
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.get(" http://demo.guru99.com/test/newtours/register.php");
@@ -24,9 +25,6 @@ public class lab04 {
         dropdown.selectByIndex(62);
         driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
         dropdown.selectByValue("UKRAINE");
-
-
-
-
+        driver.quit();
     }
 }

@@ -6,12 +6,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WrapsElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 import java.util.List;
 
 public class lab03 {
-    public static void main(String[] args) {
 
+
+    @Test
+    public void TC_Lab03(){
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.get("https://demo.guru99.com/test/radio.html");
@@ -29,7 +32,6 @@ public class lab03 {
         if (checkBox3.isSelected()){
             System.out.println("Checkbox 3 is successfully selected");
         }
-
-
+        driver.quit();
     }
 }

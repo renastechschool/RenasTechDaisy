@@ -21,5 +21,7 @@ public class C1IfElse {
 
         else System.out.println(c + " is smallest");
 
-    }
+
+        }
+
 }

@@ -5,10 +5,11 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class lab05 {
-    public static void main(String[] args) {
-
+    @Test
+    public void TC_Lab05(){
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.get("http://demo.guru99.com/test/delete_customer.php");
@@ -18,5 +19,6 @@ public class lab05 {
         Alert alert = driver.switchTo().alert();
         alert.accept();
         alert.accept();
+        driver.quit();
     }
 }
